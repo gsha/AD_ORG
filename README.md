@@ -2,9 +2,10 @@
 ###### For any video YouTube provides some data metrices such as Views, Likes, Comments, Shares, etc available publically. Based on these data metrices one has to predict the ad views i.e. views earned through advertizements. External library or any dataset can be used for the prediction.
 
 ### Files
-ad_org.ipynb - All the code along with algorithms and some visualization.
-result.csv - Results in .csv format
-result.txt - Results in .txt format
+* data - containing all the required data for this problem.
+* ad_org.ipynb - All the code along with algorithms and some visualization.
+* result.csv - Results in .csv format
+* result.txt - Results in .txt format
 
 
 ### Submission
@@ -13,10 +14,6 @@ result.txt - Results in .txt format
 |--------|---------|
 | VID_1  |    1    |
 
-### Files
-ad_org.ipynb - All the code along with algorithms and some visualization.
-result.csv - Results in .csv format
-result.txt - Results in .txt format
 
 ### Note:
 *Please provide the feedback of the solution @ girishsharma001@gmail.com .*
